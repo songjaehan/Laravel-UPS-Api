@@ -1,4 +1,5 @@
-Laravel UPS Api
+![alt text](http://www.yorkvilleu.ca/ups/UPS_Logo.png "UPS Logo")
+Laravel UPS<sup>TM</sup> Api
 =================
 
 ## For Laravel 5.1 & 5.2
